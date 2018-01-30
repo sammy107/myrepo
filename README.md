@@ -1,2 +1,4 @@
 # myrepo
-my repositories
+hello there!
+
+my first git repository is here. readme!
